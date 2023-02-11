@@ -14,7 +14,6 @@ public class Ex_01_Triangular_num {
         return num * factorial(num-1);
     }
 
-
     public static void main(String[] args) {
         Scanner iScanner = new Scanner(System.in);
         System.out.println("Input number: ");
